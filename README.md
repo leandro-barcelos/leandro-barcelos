@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandro-barcelos&label=Profile%20views&color=0e75b6&style=flat" alt="leandro-barcelos" /> </p>
 
-- 🌱 I’m currently learning **LibGDX**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **leandrobarcelos.f@hotmail.com**
 
