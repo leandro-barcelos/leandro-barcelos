@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [3D Graphics Engine](https://github.com/leandro-barcelos/graphic_engine)
 
-- 🌱 I’m currently learning **Backend with Golang**
+- 🌱 I’m currently learning **Game Development with Godot**
 
 - 📫 How to reach me **leandrobarcelos.f@hotmail.com**
 
