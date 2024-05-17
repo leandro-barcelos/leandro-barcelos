@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Leandro, Computer Science Undergraduate Student at Universidade Federal de Uberlândia<br>- 🔭 I’m currently working on <a href="github.com/leandro-barcelos/voxix-rs">Rust Voxel Engine</a><br>- 📚 I'm currently learning Spring Boot</p>
+<p align="left">I'm Leandro, Computer Science Undergraduate Student at Universidade Federal de Uberlândia<br>- 🔭 I’m currently working on <a href="github.com/leandro-barcelos/voxix-rs">Rust Voxel Engine</a><br>- 📚 I'm currently learning Graphics Programming</p>
 
 ###
 
