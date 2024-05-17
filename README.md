@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="./github-header-image.png"  />
+  <img height="150" src="./242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"  />
 </div>
 
 ###
@@ -65,9 +65,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandro-barcelos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="175" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=leandro-barcelos&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/leandro-barcelos/leandro-barcelos/output/snake.svg" alt="Snake animation" />
 
 ###
