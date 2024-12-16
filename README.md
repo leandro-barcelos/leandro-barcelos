@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Leandro, Computer Science Undergraduate Student at Universidade Federal de Uberlândia<br>- 🔭 I’m currently working on <a href="github.com/leandro-barcelos/FLIPFluidSimulation">FLIP Fluid Simulation in Unity</a><br>- 📚 I'm currently learning Graphics Programming</p>
+<p align="left">I'm Leandro, Computer Science Undergraduate Student at Universidade Federal de Uberlândia<br>- 🔭 I’m currently working on <a href="https://github.com/leandro-barcelos/FLIPFluidSimulation">FLIP Fluid Simulation in Unity</a><br>- 📚 I'm currently learning Graphics Programming</p>
 
 ###
 
