@@ -1,9 +1,12 @@
 <div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZrZnJvd2ZnZzRsanR6OTJteGY2cTN5a3o4dWxwcGsyOXU1djh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/leandro-b-ferreira/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:leandrobarcelos.f@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
 </div>
 
@@ -15,7 +18,7 @@
 
 ###
 
-<h1 align="center">hello there 👋</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -23,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Leandro, Computer Science Undergraduate Student at Universidade Federal de Uberlândia<br>- 🔭 I’m currently working on <a href="">PS1 Emulator</a><br>- 📚 I'm currently learning Vulkan</p>
+<p align="left">I'm Leandro, a Computer Science graduate from Universidade Federal de Uberlândia.<br><br>- 🔭 I’m currently working on a Chip-8 Emulator in Rust<br>- 📚 Learning Vulkan and low-level graphics programming<br>- 🎮 Interested in graphics, simulation, and game engine development</p>
 
 ###
 
@@ -32,23 +35,29 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
+  <img src="./opengl.svg" height="40" alt="opengl logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
+  <img src="./vulkan.svg" height="40" alt="vulkan logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge" height="40" alt="opengl logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
 
 ###
@@ -58,8 +67,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandro-barcelos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="175" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=leandro-barcelos&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=leandro-barcelos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandro-barcelos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
