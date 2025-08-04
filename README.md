@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Leandro, a Computer Science graduate from Universidade Federal de Uberlândia.<br><br>- 🔭 I’m currently working on a Chip-8 Emulator in Rust<br>- 📚 Learning Vulkan and low-level graphics programming<br>- 🎮 Interested in graphics, simulation, and game engine development</p>
+<p align="left">I'm Leandro, a Computer Science graduate from Universidade Federal de Uberlândia.<br><br>- 🔭 I’m currently working on a <a href="https://github.com/leandro-barcelos/PolyStation">PlayStation 1 Emulator in C++</a><br>- 📚 Learning Vulkan and low-level graphics programming<br>- 🎮 Interested in graphics, simulation, and game engine development</p>
 
 ###
 
